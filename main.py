@@ -9,6 +9,7 @@ class Fuck:
 
     def helper(self, varr):
         lib.core()
+        print("This code don't give a fuck about main branch")
 
 
 if __name__ == "__main__":
