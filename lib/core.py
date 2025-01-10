@@ -1,6 +1,8 @@
+import helpers.helper
+
 def shit_func():
-    pass
+    helpers.helper.helper()
 
 def help_func():
-    pass
+    shit_func()
 
