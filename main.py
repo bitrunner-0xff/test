@@ -9,7 +9,7 @@ class Fuck:
 
     def helper(self, varr):
         lib.core()
-        print("I fuck everyone!")
+        print("This code don't give a fuck about main branch and me!")
 
 
 if __name__ == "__main__":
