@@ -1,4 +1,4 @@
 # README
 Python private project
 
-I want conflicts!!!
+I guess this is the most aproppriate spot for conflicts)
