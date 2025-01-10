@@ -9,6 +9,7 @@ class Fuck:
 
     def helper(self, varr):
         lib.core()
+        print("I fuck everyone!")
 
 
 if __name__ == "__main__":
