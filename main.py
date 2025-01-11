@@ -13,4 +13,5 @@ class Fuck:
 
 
 if __name__ == "__main__":
+    print("commit for the last work")
     Fuck.func()
